@@ -3,6 +3,6 @@ It's me, **Lavender (they/them/theirs)** and this is my GitHub Profile! I'm a fu
 
 ![icons](https://skillicons.dev/icons?i=js,ts,html,css,git,linux,php,nginx,react,supabase,tailwind,docker,figma)<br/>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lvndr.sh/badge/status)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lvndr.sh/badge/playing)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lvndr.sh/badge/spotify)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/status)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/playing)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/spotify)
