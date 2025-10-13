@@ -3,8 +3,8 @@ I'm **Lavender (*or Alexander*) (they/them/theirs)** and this is my GitHub Profi
 
 ![icons](https://skillicons.dev/icons?i=js,ts,html,css,git,linux,discordjs,nodejs,lua,php,nginx,react,supabase,tailwind,docker)<br/>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/status)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/playing)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://api.lavylavender.com/badge/spotify)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://garden.lavendicated.net/badge/status)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://garden.lavendicated.net/badge/playing)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://garden.lavendicated.net/badge/spotify)
 
 ![real](https://pbs.twimg.com/media/GwZ5hIMX0AACrD9?format=jpg&name=large)
